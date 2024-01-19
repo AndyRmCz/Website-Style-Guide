@@ -1,0 +1,60 @@
+body {
+  background-color: whitesmoke;
+  font-family: 'Arial';
+  width: 85%;
+  margin: 0px auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #A6A6A6;
+}
+
+section {
+  border: 1px solid lightgray;
+  padding: 0px 10px;
+  margin: 10px auto;
+  border-radius:5px;
+}
+
+ul {
+  color: #1a1a1a;
+}
+
+.box{
+  padding: 25px 30px;
+  margin: 5px auto;
+  width: 25%;
+  border-radius:3px;
+  display: inline-block;
+  color: #1a1a1a;
+}
+
+
+.color-text {
+  text-align: center;
+}
+
+.font-ligth {
+  font-weight: normal;
+}
+
+.font-bold {
+  font-weight: bold;
+}
+
+.font-italic {
+  font-style: italic;
+}
+
+.f1 {
+  font-family: "Montserrat";
+}
+
+.f2 {
+  font-family: "arial";
+}
+
+.f3 {
+  font-family: "comic-sans";
+}
+
